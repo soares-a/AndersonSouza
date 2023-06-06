@@ -33,4 +33,4 @@ Sou um desenvolvedor júnior apaixonado por tecnologia e estudante de Ciência d
 
 Vamos nos conectar e explorar como podemos criar soluções impactantes juntos!
 
-![Snake animation](https://github.com/soares-a/soares-a/blob/output/github-contribution-grid-snake.svg)
+
