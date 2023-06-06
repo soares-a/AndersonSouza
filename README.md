@@ -1,4 +1,4 @@
-# Eiiii, espero que esteja bem! 👋
+# Olá, espero que esteja bem! 👋
 
 ## Sobre mim
 Sou um desenvolvedor júnior apaixonado por tecnologia e estudante de Ciência de Dados na Universidade Federal do Mato Grosso do Sul (UFMS). Minha paixão pela programação e o desejo de explorar novas tecnologias me impulsionam a buscar novos desafios para aprimorar minhas skills.
