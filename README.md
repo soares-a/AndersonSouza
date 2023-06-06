@@ -4,8 +4,8 @@
 Sou um desenvolvedor júnior apaixonado por tecnologia e estudante de Ciência de Dados na Universidade Federal do Mato Grosso do Sul (UFMS). Minha paixão pela programação e o desejo de explorar novas tecnologias me impulsionam a buscar novos desafios para aprimorar minhas skills.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soares-a&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soares-a&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=soares-a&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=soares-a&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 ## Habilidades
 
 - 💻 Linguagens de programação: Java, Python, JavaScript
