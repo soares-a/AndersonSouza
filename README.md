@@ -8,7 +8,7 @@ Sou um desenvolvedor júnior apaixonado por tecnologia e estudante de Ciência d
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=soares-a&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 ## Habilidades
 
-- 💻 Linguagens de programação: Java, Python, JavaScript
+- 💻 Linguagens de programação: C, C#, C++, Java, Python, JavaScript
 - 🌐 Web Development: HTML, CSS, TypeScript
 - 📊 Banco de dados: SQL, PostgreSQL
 - 📱 Desenvolvimento móvel: Flutter
@@ -18,7 +18,7 @@ Sou um desenvolvedor júnior apaixonado por tecnologia e estudante de Ciência d
 ## Educação e Certificações
 
 - 🎓 Universidade Federal do Mato Grosso do Sul (UFMS) - Ciência de Dados (Em andamento)
-- 📚 Cursos e certificações em tecnologia de instituições renomadas como Harvard, MIT e ITA
+- 📚 Cursos e certificações em tecnologia em Harvard, MIT e ITA
 
 ## Projetos
 
