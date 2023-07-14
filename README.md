@@ -18,12 +18,12 @@ Sou um desenvolvedor júnior apaixonado por tecnologia e estudante de Ciência d
 ## Educação e Certificações
 
 - 🎓 Universidade Federal do Mato Grosso do Sul (UFMS) - Ciência de Dados (Em andamento)
-- 📚 Cursos e certificações em tecnologia em Harvard, MIT e ITA
+- 📚 Certificado CS50 Harvard 2023
 
-## Projetos
+## Prêmios e Projetos
 
-- 🏆 Participação no hackathon do iFood (Top 5)
-- 🎨 Desenvolvimento de projetos com foco em criatividade e inovação
+- 🏆 Top 5 Hackaton Ifood Potência Tech 2023
+- 🏆 Prêmio Capes Talento Universitário 2023
 
 ## Contato
 
